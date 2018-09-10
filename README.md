@@ -1,7 +1,8 @@
 # MyShell
 
 This is a mini shell implementation in C.
-
+## Usage
+    run make in the folder and run the executable program to use MyShell
 ## Features
     1. implemented built-in command like `cd` `exit` `fg` `bg` `umask` `set`
     2. support pipe redirection
