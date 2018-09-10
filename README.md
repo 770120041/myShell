@@ -12,8 +12,6 @@ This is a mini shell implementation in C.
     6. read from files
     7. support I/O direction
 ## Mannual
-
-### basic functions of myshell：
     1. use `ls`  to list directory contents of files and directories.
     what will be displayed when type in 'ls -al' in my computer
     total 208
