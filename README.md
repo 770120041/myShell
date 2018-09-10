@@ -55,3 +55,6 @@ This is a mini shell implementation in C.
     9. use '|' to use pipe feature
     
     10. use keyword 'fg' and 'bg' or '&' to run a program in the current shell or run it in background
+    
+## Miscellaneous
+    This is a Course Project for the course <Linux Programming> in Zhejiang University in July 2017
